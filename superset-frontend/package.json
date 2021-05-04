@@ -189,7 +189,7 @@
     "@emotion/babel-preset-css-prop": "^10.2.1",
     "@hot-loader/react-dom": "^16.13.0",
     "@istanbuljs/nyc-config-typescript": "^1.0.1",
-    "@storybook/addon-actions": "^6.0.13",
+    "@storybook/addon-actions": "^6.2.9",
     "@storybook/addon-essentials": "^6.0.28",
     "@storybook/addon-knobs": "^6.0.13",
     "@storybook/addon-links": "^5.3.19",
