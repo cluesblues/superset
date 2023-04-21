@@ -105,7 +105,7 @@ setup(
         "slackclient==2.5.0",  # PINNED! slack changes file upload api in the future versions
         "sqlalchemy>=1.3.16, <2.0, !=1.3.21",
         "sqlalchemy-utils>=0.36.6,<0.37",
-        "sqlparse==0.3.0",  # PINNED! see https://github.com/andialbrecht/sqlparse/issues/562
+        "sqlparse==0.4.4",  # PINNED! see https://github.com/andialbrecht/sqlparse/issues/562
         "typing-extensions>=3.7.4.3,<4",  # needed to support typing.Literal on py37
         "wtforms-json",
         "pyparsing>=2.4.7, <3.0.0",
