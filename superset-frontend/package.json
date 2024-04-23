@@ -197,7 +197,7 @@
     "@storybook/client-api": "^6.0.21",
     "@storybook/preset-typescript": "^3.0.0",
     "@storybook/react": "^6.0.28",
-    "@svgr/webpack": "^5.4.0",
+    "@svgr/webpack": "^8.1.0",
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.0",
     "@types/classnames": "^2.2.10",
