@@ -111,7 +111,7 @@
     "fontsource-inter": "^3.0.5",
     "geolib": "^2.0.24",
     "global-box": "^1.2.0",
-    "immutable": "^4.0.0-rc.12",
+    "immutable": "^4.3.8",
     "interweave": "^11.2.0",
     "jquery": "^3.5.1",
     "js-levenshtein": "^1.1.6",
